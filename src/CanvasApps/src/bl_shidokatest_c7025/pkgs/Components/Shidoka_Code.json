@@ -1,0 +1,29 @@
+{
+  "ComponentAllowCustomization": true,
+  "ComponentChangedSinceFileImport": true,
+  "ComponentManifest": {
+    "AllowAccessToGlobals": false,
+    "AllowCustomization": true,
+    "Description": "",
+    "Name": "Shidoka_Code",
+    "TemplateGuid": "94d86a2caf0d470885bf70e80b566d96"
+  },
+  "ComponentType": "CanvasComponent",
+  "CustomGroupControlTemplateName": "",
+  "CustomProperties": [],
+  "FirstParty": true,
+  "Id": "http://microsoft.com/appmagic/Component",
+  "IsComponentLocked": true,
+  "IsComponentTemplate": true,
+  "IsCustomGroupControlTemplate": false,
+  "IsPcfControl": false,
+  "IsPremiumPcfControl": false,
+  "IsWidgetTemplate": false,
+  "LastModifiedTimestamp": "638689248002408237",
+  "Name": "94d86a2caf0d470885bf70e80b566d96",
+  "OverridableProperties": {},
+  "SourceLibraryId": "c470af3b-8f2b-4824-8b11-08086116fa32",
+  "SourceLibraryLogicalName": "bl_powerappsshidokav1_9ecaf",
+  "TemplateOriginalName": "95de3e44d3f04bd3bf5e5f41a2dc39ff",
+  "Version": "1.0"
+}

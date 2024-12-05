@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Icons" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 107.05 107.05">
+  <defs>
+    <style>
+      .cls-1 {
+        stroke: #3d3c3c;
+      }
+
+      .cls-1, .cls-2 {
+        fill: none;
+        stroke-miterlimit: 10;
+        stroke-width: 1.85px;
+      }
+
+      .cls-2 {
+        stroke: #ff462d;
+      }
+    </style>
+  </defs>
+  <g>
+    <circle class="cls-2" cx="28.91" cy="56.1" r="7.05"/>
+    <path class="cls-1" d="m10.73,91.01v-10.8c0-5.57,4.52-10.09,10.09-10.09h15.98c5.57,0,10.09,4.52,10.09,10.09v10.8"/>
+    <line class="cls-1" x1="19.86" y1="80.21" x2="19.86" y2="91.01"/>
+    <line class="cls-1" x1="38.42" y1="80.21" x2="38.42" y2="91.01"/>
+  </g>
+  <g>
+    <circle class="cls-2" cx="68.06" cy="25.06" r="3.87"/>
+    <path class="cls-1" d="m58.08,44.22v-5.93c0-3.06,2.48-5.54,5.54-5.54h8.77c3.06,0,5.54,2.48,5.54,5.54v5.93"/>
+    <line class="cls-1" x1="63.09" y1="38.29" x2="63.09" y2="44.22"/>
+    <line class="cls-1" x1="73.28" y1="38.29" x2="73.28" y2="44.22"/>
+  </g>
+  <polygon class="cls-1" points="88.97 16.04 88.97 44.22 54.57 44.22 47.03 48.06 47.03 40.52 47.03 37.26 47.03 16.04 88.97 16.04"/>
+  <line class="cls-1" x1="10.73" y1="91.01" x2="91.23" y2="91.01"/>
+  <polygon class="cls-1" points="90.49 80.21 58.08 80.21 63.92 64.3 96.32 64.3 90.49 80.21"/>
+  <line class="cls-1" x1="75.42" y1="80.57" x2="75.42" y2="91.01"/>
+</svg>

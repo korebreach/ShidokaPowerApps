@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Icons" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 107.05 107.05">
+  <defs>
+    <style>
+      .cls-1 {
+        stroke: #3d3c3c;
+      }
+
+      .cls-1, .cls-2 {
+        fill: none;
+        stroke-miterlimit: 10;
+        stroke-width: 1.85px;
+      }
+
+      .cls-2 {
+        stroke: #ff462d;
+      }
+    </style>
+  </defs>
+  <line class="cls-1" x1="75.95" y1="44.66" x2="12.79" y2="81.14"/>
+  <ellipse class="cls-2" cx="61.47" cy="32.27" rx="4.53" ry="4.56" transform="translate(3.06 69.79) rotate(-60.41)"/>
+  <ellipse class="cls-2" cx="80.02" cy="42.08" rx="4.53" ry="4.56" transform="translate(3.92 90.89) rotate(-60.41)"/>
+  <path class="cls-1" d="m57.21,34.81l-37.24,21.3c-.06-.85-.09-1.72-.09-2.59,0-20.54,16.65-37.19,37.19-37.19s37.19,16.65,37.19,37.19-16.65,37.19-37.19,37.19c-6.45,0-12.51-1.64-17.79-4.53l26.88-15.57"/>
+  <ellipse class="cls-2" cx="70.66" cy="68" rx="4.53" ry="4.56" transform="translate(-23.36 95.87) rotate(-60.41)"/>
+</svg>

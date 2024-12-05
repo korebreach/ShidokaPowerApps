@@ -1,0 +1,166 @@
+Shidoka_Code As CanvasComponent:
+    Fill: =RGBA(0, 0, 0, 0)
+    Height: =640
+    Width: =640
+    X: =0
+    Y: =0
+    ZIndex: =1
+
+    RTE_AppOnStart As richTextEditor:
+        Default: |-
+            ="Set(
+                gblAppSettings,
+                {
+                    ApplicationName: ""Shidoka Template Application"",
+                    AppVersion: ""2024.12"",
+                    Theme: ""Shidoka 1"",
+                    BorderRadius: 10
+                }
+            );
+            
+            If(
+                gblAppSettings.Theme = ""Shidoka 1"",
+                Set(
+                    gblColor,
+                    {
+                        Name: ""Shidoka 1"",
+                        WarmRed: ColorValue(""#FF462D""),
+                        White: ColorValue(""#FFFFFF""),
+                        DeepForest: ColorValue(""#042315""),
+                        Earth: ColorValue(""#9E9287""),
+                        Cloud: ColorValue(""#F2F1EE""),
+                        Black: ColorValue(""#000000""),
+                        Skye: ColorValue(""#E4F4F1""),
+                        Spruce: ColorValue(""#29707A""),
+                        DarkStone: ColorValue(""#3D3C3C""),
+                        SpringGreen: ColorValue(""#4CDD84""),
+                        DigitalDarkSpringGreen: ColorValue(""#187E3F""),
+                        DigitalDarkEarth: ColorValue(""#565049"")
+                    }
+                )
+            );
+            
+                Set(
+                    gblFont,
+                    {
+                        Thin: ""TWK Everett Thin"",
+                        Ultralight: ""TWK Everett Ultralight"",
+                        Light: ""TWK Everett Light"",
+                        Regular: ""TWK Everett Regular"",
+                        Medium: ""TWK Everett Medium"",
+                        Bold: ""TWK Everett Bold"",
+                        Extrabold: ""TWK Everett Extrabold"",
+                        Black: ""TWK Everett Black"",
+                        Hairline: ""TWK Everett Hairline"",
+                        Super: ""TWK Everett Super""
+                    }
+                );
+            
+                Set(
+                    gblFontSize,
+                    {
+                        PageHeading: 24,
+                        PageSubheading: 14,
+                        Subheading: 14,
+                        LargeBody1: 16,
+                        LargeBody2: 32,
+                        RegularBody: 14,
+                        SmallBody: 12
+                    }
+                );
+            
+                Set(
+                    gblIcon,
+                    {
+                        DataStrategy: 'Data_Data Strategy',
+                        DataMigration: 'Data_Data Migration',
+                        DataPlatform: 'Data_Data Platform',
+                        TrackMeasure: 'Financial_Track-Measure',
+                        Valuation: 'Financial_Valuation',
+                        Yen: 'Financial_Yen',
+                        FinancialGrowthA: 'Financial_Growth-A',
+                        FinancialGrowthB: 'Financial_Growth-B',
+                        FinancialPerformance: 'Financial_Performance',
+                        Pound: 'Financial_Pound',
+                        QuarterlyReport: 'Financial_Quarterly Report',
+                        FinanialReiteration: 'Financial_Reiteration',
+                        ShareholderMeeting: 'Financial_Shareholder Meeting',
+                        AnalystCallA: 'Financial_Analyst Call-A',
+                        AnalystCallB: 'Financial_Analyst Call-B',
+                        FinancialAssets: 'Financial_Assets',
+                        BalanceSheet: 'Financial_Balance Sheet',
+                        DataProjection: 'Financial_Data Projection',
+                        Dollar: 'Financial_Dollar',
+                        EarningsPerShare: 'Financial_Earnings Per Share',
+                        Earnings: 'Financial_Earnings',
+                        Euro: 'Financial_Euro',
+                        FinancialExpansion: 'Financial_Expansion',
+                        BankingEuro: 'Financial_Finance-Banking-Euro',
+                        BankingDollar: 'Financial_Finance-Banking-Euro copy',
+                        BankingPound: 'Financial_Finance-Banking-Pound',
+                        BankingYen: 'Financial_Finance-Banking-Yen',
+                        Stabilize: 'FOP_Stabilize',
+                        Transform: 'FOP_Transform',
+                        Accelerate: 'FOP_Accelerate',
+                        CyberSecurityA: 'FOP_Cyber Security',
+                        CyberSecurityB: 'Security_Cyber Security',
+                        Directional: 'FOP_Directional',
+                        Expand: 'FOP_Expand',
+                        Innovate: 'FOP_Innovate',
+                        Modernize: 'FOP_Modernize',
+                        RelentlessOrganization: 'FOP_Relentless Organization',
+                        IndustryBusiness: 'Industry_Business',
+                        IndustryEnvironment: 'Industry_Environment',
+                        IndustryHealthcare: 'Industry_Healthcare',
+                        IndustryRegulatory: 'Industry_Regulatory',
+                        IndustryTravel: 'Industry_Travel',
+                        People: 'People_People',
+                        Performing: 'People_Performing',
+                        Team: 'People_Team',
+                        Trust: 'People_Trust',
+                        Webcast: 'People_Webcast',
+                        Woman: 'People_Woman',
+                        Accessibility: 'People_Accessibility',
+                        BuildLeadershipAndCulture: 'People_Build Leadership & Culture',
+                        CollaborationA: 'People_Collaboration',
+                        CollaborationB: 'People_Collaboration_B',
+                        Man: 'People_Man',
+                        Partnering: 'People_Partnering',
+                        SecurityResilency: 'Security_Resiliency',
+                        SecurityResilencyServices: 'Technology_Security & Resiliency Services',
+                        TechnologySupportServices: 'Technology_Technology Support Services',
+                        Technology: 'Technology_Technology',
+                        TechnologyAdvisory: 'Technology_Advisory',
+                        TechnologyAI: 'Technology_AI',
+                        ApplicationEnvironmentManagementServices: 'Technology_Application Environment Management Services',
+                        CloudServices: 'Technology_Cloud Services',
+                        DataManagementServices: 'Technology_Data Management Services',
+                        DigitalWorkplace: 'Technology_Digital Workplace',
+                        EnterpriseInfrastructureServices: 'Technology_Enterprise Infrastructure Services',
+                        HealthySystems: 'Technology_Healthy Systems',
+                        Implementation: 'Technology_Implementation',
+                        IntegratedSolutions: 'Technology_Integrated Solutions',
+                        MultiCloudServices: 'Technology_Multi Cloud Services',
+                        Network: 'Technology_Network',
+                        ProgressGlobalScale: 'Technology_Progress-Global Scale',
+                        Scaling: 'Technology_Scaling'
+                    }
+                );"
+        DisplayMode: =DisplayMode.View
+        Height: =518
+        Size: =8
+        Width: =579
+        X: =40
+        Y: =122
+        ZIndex: =1
+
+    Title As label:
+        Align: =Align.Center
+        Height: =41
+        Size: =21
+        Text: ="Code to Add to App.OnStart Property"
+        Width: =560
+        X: =40
+        Y: =40
+        ZIndex: =2
+

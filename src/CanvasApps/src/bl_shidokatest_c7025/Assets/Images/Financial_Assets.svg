@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Icons" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 107.05 107.05">
+  <defs>
+    <style>
+      .cls-1, .cls-2 {
+        stroke-width: 1.85px;
+      }
+
+      .cls-1, .cls-2, .cls-3 {
+        fill: none;
+        stroke-miterlimit: 10;
+      }
+
+      .cls-1, .cls-3 {
+        stroke: #3d3c3c;
+      }
+
+      .cls-2 {
+        stroke: #ff462d;
+      }
+
+      .cls-3 {
+        stroke-width: 2.36px;
+      }
+    </style>
+  </defs>
+  <g>
+    <polygon class="cls-1" points="84.48 34.92 84.48 92.97 22.58 92.97 22.58 14.09 63.56 14.09 84.48 34.92"/>
+    <line class="cls-1" x1="46.76" y1="77.09" x2="74.72" y2="77.09"/>
+    <line class="cls-1" x1="46.76" y1="67.36" x2="74.72" y2="67.36"/>
+    <line class="cls-1" x1="46.76" y1="57.64" x2="74.72" y2="57.64"/>
+    <line class="cls-2" x1="31.06" y1="77.09" x2="42.87" y2="77.09"/>
+    <line class="cls-2" x1="31.06" y1="67.36" x2="42.87" y2="67.36"/>
+    <line class="cls-2" x1="31.06" y1="57.64" x2="42.87" y2="57.64"/>
+    <g>
+      <path class="cls-1" d="m36.25,27.93h-2.04c-1.75,0-3.16,1.42-3.16,3.16s1.42,3.16,3.16,3.16h2.05"/>
+      <line class="cls-1" x1="44.96" y1="27.93" x2="39.76" y2="27.93"/>
+      <path class="cls-1" d="m39.76,40.57h2.04c1.75,0,3.16-1.42,3.16-3.16h0c0-1.75-1.42-3.16-3.16-3.16h-2.04"/>
+      <line class="cls-1" x1="31.06" y1="40.57" x2="36.25" y2="40.57"/>
+      <line class="cls-1" x1="38.01" y1="23.84" x2="38.01" y2="44.38"/>
+    </g>
+  </g>
+  <path class="cls-3" d="m81.18,32.1h-17.32V14.65"/>
+</svg>

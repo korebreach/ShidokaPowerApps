@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Icons" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 107.05 107.05">
+  <defs>
+    <style>
+      .cls-1 {
+        stroke: #3d3c3c;
+      }
+
+      .cls-1, .cls-2 {
+        fill: none;
+        stroke-miterlimit: 10;
+        stroke-width: 1.85px;
+      }
+
+      .cls-2 {
+        stroke: #ff462d;
+      }
+    </style>
+  </defs>
+  <g>
+    <g>
+      <path class="cls-1" d="m13.67,69.41h79.73"/>
+      <path class="cls-1" d="m48.95,79.62v9.37"/>
+      <path class="cls-1" d="m57.88,79.89v9.1"/>
+      <path class="cls-1" d="m32.9,88.98h40.33"/>
+    </g>
+    <path class="cls-1" d="m69.78,24.28h23.62v48.45c0,3.81-3.09,6.89-6.89,6.89H20.55c-3.81,0-6.89-3.09-6.89-6.89V24.28h23.6"/>
+  </g>
+  <g>
+    <g>
+      <g>
+        <line class="cls-1" x1="45.33" y1="62.08" x2="45.33" y2="47.88"/>
+        <line class="cls-1" x1="61.69" y1="47.88" x2="61.69" y2="62.08"/>
+      </g>
+      <path class="cls-1" d="m69.78,62.08v-16.75c0-4.72-3.83-8.55-8.55-8.55h-15.42c-4.72,0-8.55,3.83-8.55,8.55v16.75"/>
+    </g>
+    <circle class="cls-2" cx="53.52" cy="24.42" r="6.35"/>
+  </g>
+</svg>

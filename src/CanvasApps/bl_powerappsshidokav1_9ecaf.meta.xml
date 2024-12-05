@@ -1,0 +1,34 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CanvasApp xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <Name>bl_powerappsshidokav1_9ecaf</Name>
+  <AppVersion>2024-12-05T12:58:09Z</AppVersion>
+  <Status>Ready</Status>
+  <CreatedByClientVersion>3.24111.12.0</CreatedByClientVersion>
+  <MinClientVersion>3.24111.12.0</MinClientVersion>
+  <Tags>{"primaryDeviceWidth":"640","primaryDeviceHeight":"73","supportsPortrait":"true","supportsLandscape":"true","primaryFormFactor":"Phone","showStatusBar":"false","publisherVersion":"3.24111.12","minimumRequiredApiVersion":"2.2.0","hasComponent":"true","hasUnlockedComponent":"true","isUnifiedRootApp":"false","sienaVersion":"20241204T211003Z-3.24111.12.0"}</Tags>
+  <IsCdsUpgraded>0</IsCdsUpgraded>
+  <GalleryItemId xsi:nil="true"></GalleryItemId>
+  <BackgroundColor>RGBA(251,101,60,1)</BackgroundColor>
+  <DisplayName>PowerApps Shidoka v1</DisplayName>
+  <Description>Kyndryl Shidoka Components for Making Microsoft Power Apps</Description>
+  <CommitMessage xsi:nil="true"></CommitMessage>
+  <Publisher xsi:nil="true"></Publisher>
+  <AuthorizationReferences>[]</AuthorizationReferences>
+  <ConnectionReferences>{}</ConnectionReferences>
+  <DatabaseReferences>{}</DatabaseReferences>
+  <AppComponents>[{"appComponentName":"16395062b4964df2a42cfba25feb61c1","displayName":"Shidoka_Iconography","appName":"c470af3b-8f2b-4824-8b11-08086116fa32","appVersion":"2024-12-05T12:58:09Z","appComponentLibraryLogicalName":"bl_powerappsshidokav1_9ecaf","appDisplayName":"PowerApps Shidoka v1","environmentName":"254469c1-8f3e-e67f-b56a-b603f61cd917","owner":{"id":"c8c5607a-f51b-487b-aa81-8c0c07c40d82","displayName":"Bob Lamaster","email":"Bob.Lamaster@kyndryl.com","type":"User","tenantId":"f260df36-bc43-424c-8f44-c85226657b01","userPrincipalName":"Bob.Lamaster@kyndryl.com"},"allowCustomization":true,"createdOn":"2024-11-26T17:02:18.375Z","lastModifiedOn":"2024-12-05T12:53:44.564Z","connectionReferences":{},"databaseReferences":{}},{"appComponentName":"b8df40046bce4e2bae29103bb3d9047b","displayName":"Shidoka_Colors","appName":"c470af3b-8f2b-4824-8b11-08086116fa32","appVersion":"2024-12-05T12:58:09Z","appComponentLibraryLogicalName":"bl_powerappsshidokav1_9ecaf","appDisplayName":"PowerApps Shidoka v1","environmentName":"254469c1-8f3e-e67f-b56a-b603f61cd917","owner":{"id":"c8c5607a-f51b-487b-aa81-8c0c07c40d82","displayName":"Bob Lamaster","email":"Bob.Lamaster@kyndryl.com","type":"User","tenantId":"f260df36-bc43-424c-8f44-c85226657b01","userPrincipalName":"Bob.Lamaster@kyndryl.com"},"allowCustomization":true,"createdOn":"2024-11-26T17:02:18.375Z","lastModifiedOn":"2024-12-05T12:53:44.564Z","connectionReferences":{},"databaseReferences":{}},{"appComponentName":"8fda4d2aab4f41a7a3afd856500971e3","displayName":"Shidoka_GraphicElements","appName":"c470af3b-8f2b-4824-8b11-08086116fa32","appVersion":"2024-12-05T12:58:09Z","appComponentLibraryLogicalName":"bl_powerappsshidokav1_9ecaf","appDisplayName":"PowerApps Shidoka v1","environmentName":"254469c1-8f3e-e67f-b56a-b603f61cd917","owner":{"id":"c8c5607a-f51b-487b-aa81-8c0c07c40d82","displayName":"Bob Lamaster","email":"Bob.Lamaster@kyndryl.com","type":"User","tenantId":"f260df36-bc43-424c-8f44-c85226657b01","userPrincipalName":"Bob.Lamaster@kyndryl.com"},"allowCustomization":true,"createdOn":"2024-11-26T17:02:18.375Z","lastModifiedOn":"2024-12-05T12:53:44.564Z","connectionReferences":{},"databaseReferences":{}},{"appComponentName":"95de3e44d3f04bd3bf5e5f41a2dc39ff","displayName":"Shidoka_Code","appName":"c470af3b-8f2b-4824-8b11-08086116fa32","appVersion":"2024-12-05T12:58:09Z","appComponentLibraryLogicalName":"bl_powerappsshidokav1_9ecaf","appDisplayName":"PowerApps Shidoka v1","environmentName":"254469c1-8f3e-e67f-b56a-b603f61cd917","owner":{"id":"c8c5607a-f51b-487b-aa81-8c0c07c40d82","displayName":"Bob Lamaster","email":"Bob.Lamaster@kyndryl.com","type":"User","tenantId":"f260df36-bc43-424c-8f44-c85226657b01","userPrincipalName":"Bob.Lamaster@kyndryl.com"},"allowCustomization":true,"createdOn":"2024-11-26T17:02:18.375Z","lastModifiedOn":"2024-12-05T12:53:44.564Z","connectionReferences":{},"databaseReferences":{}},{"appComponentName":"43d15e531e674343acf3d451e2cdb1d4","displayName":"Shidoka_GlobalFilter_DONOTUSE","appName":"c470af3b-8f2b-4824-8b11-08086116fa32","appVersion":"2024-12-05T12:58:09Z","appComponentLibraryLogicalName":"bl_powerappsshidokav1_9ecaf","appDisplayName":"PowerApps Shidoka v1","environmentName":"254469c1-8f3e-e67f-b56a-b603f61cd917","owner":{"id":"c8c5607a-f51b-487b-aa81-8c0c07c40d82","displayName":"Bob Lamaster","email":"Bob.Lamaster@kyndryl.com","type":"User","tenantId":"f260df36-bc43-424c-8f44-c85226657b01","userPrincipalName":"Bob.Lamaster@kyndryl.com"},"allowCustomization":true,"createdOn":"2024-11-26T17:02:18.375Z","lastModifiedOn":"2024-12-05T12:53:44.564Z","connectionReferences":{},"databaseReferences":{}}]</AppComponents>
+  <AppComponentDependencies>[]</AppComponentDependencies>
+  <CanConsumeAppPass>0</CanConsumeAppPass>
+  <CanvasAppType>1</CanvasAppType>
+  <BypassConsent>0</BypassConsent>
+  <AdminControlBypassConsent>0</AdminControlBypassConsent>
+  <EmbeddedApp xsi:nil="true"></EmbeddedApp>
+  <IntroducedVersion>1.0</IntroducedVersion>
+  <CdsDependencies>{"cdsdependencies":[]}</CdsDependencies>
+  <IsCustomizable>1</IsCustomizable>
+  <BackgroundImageUri>/CanvasApps/bl_powerappsshidokav1_9ecaf_BackgroundImageUri</BackgroundImageUri>
+  <DocumentUri>/CanvasApps/bl_powerappsshidokav1_9ecaf_DocumentUri.msapp</DocumentUri>
+  <AdditionalUris>
+    <AdditionalUri>/CanvasApps/bl_powerappsshidokav1_9ecaf_AdditionalUris0_identity.json</AdditionalUri>
+  </AdditionalUris>
+</CanvasApp>

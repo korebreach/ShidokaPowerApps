@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Icons" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 107.05 107.05">
+  <defs>
+    <style>
+      .cls-1 {
+        stroke: #3d3c3c;
+      }
+
+      .cls-1, .cls-2 {
+        fill: none;
+        stroke-miterlimit: 10;
+        stroke-width: 1.85px;
+      }
+
+      .cls-2 {
+        stroke: #ff462d;
+      }
+    </style>
+  </defs>
+  <g>
+    <g>
+      <line class="cls-1" x1="45.33" y1="91.95" x2="45.33" y2="44.03"/>
+      <line class="cls-1" x1="61.7" y1="44.03" x2="61.7" y2="91.95"/>
+      <line class="cls-1" x1="53.52" y1="66.39" x2="53.52" y2="91.95"/>
+    </g>
+    <path class="cls-1" d="m69.79,59.11v-16.75c0-4.72-3.83-8.55-8.55-8.55h-15.42c-4.72,0-8.55,3.83-8.55,8.55v16.75"/>
+  </g>
+  <circle class="cls-2" cx="53.53" cy="21.45" r="6.35"/>
+</svg>
