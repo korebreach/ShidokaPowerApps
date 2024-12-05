@@ -1,9 +1,0 @@
-Screen1 As screen:
-
-    Shidoka_GlobalFilter_1 As Shidoka_GlobalFilter_DONOTUSE:
-        ResetSearchBorder: =Set(OuterBorderVisible,false)
-
-    Shidoka_GraphicElements_1 As Shidoka_GraphicElements:
-        Y: =128
-        ZIndex: =2
-
